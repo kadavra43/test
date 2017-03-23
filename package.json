@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kadavra43/test/issues"
   },
-  "homepage": "https://github.com/kadavra43/test#readme"
+  "homepage": "https://github.com/kadavra43/test#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
